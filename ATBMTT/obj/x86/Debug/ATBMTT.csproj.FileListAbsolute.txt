@@ -1,0 +1,40 @@
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\bin\Debug\ATBMTT.exe
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\bin\Debug\ATBMTT.pdb
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.Form1.resources
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.MHCD.resources
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.Properties.Resources.resources
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.exe
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.pdb
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\bin\Debug\ATBMTT.exe
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\bin\Debug\ATBMTT.pdb
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.Form1.resources
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.MHCD.resources
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.Properties.Resources.resources
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.exe
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.pdb
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.DESF.resources
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.A51F.resources
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.exe
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.pdb
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\bin\Debug\ATBMTT.exe
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\bin\Debug\ATBMTT.pdb
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.csprojResolveAssemblyReference.cache
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.A51F.resources
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.DESF.resources
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.Form1.resources
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.MHCD.resources
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.RSAF.resources
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.Properties.Resources.resources
+C:\Users\huykhanh22\Desktop\Ba Trang\QLKS\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.A51F.resources
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.DESF.resources
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.RSAF.resources
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.ExtEuclid.resources
+C:\Users\hp\Desktop\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.BinhPhuongLienTiep.resources
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.BinhPhuongLienTiep.resources
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.ExtEuclid.resources
+C:\Users\pc\Downloads\encrypt\ATBMTT\ATBMTT\obj\x86\Debug\ATBMTT.form.RSAF.resources
